@@ -1,18 +1,10 @@
 # Fitaval – full details
 
-<<<<<<< HEAD
 > Fitaval is a fitness community platform based in Malappuram, Kerala, India. It helps people discover nearby gyms, connect with a supportive community, and track their growth.
 
 Website: https://fitaval.com/
 Language: English (India)
 Location: Malappuram, Kerala, India
-=======
-> Fitaval is a fitness community platform based in Kochi and Malappuram, Kerala, India. It helps people discover nearby gyms, connect with a supportive community, and track their growth.
-
-Website: https://fitaval.com/
-Language: English (India)
-Locations: Malappuram, Kerala, India; Kochi, Kerala, India
->>>>>>> 0f2739a4d4e12a4e879b97b2d139edf027ca8ce2
 
 ## About
 Welcome to Fitaval, where we believe fitness should be accessible, social, and inspiring. Our platform helps you discover nearby gyms, connect with a supportive community, and track your growth with ease. Fitaval isn't just about workouts; it's about building a lifestyle of health, motivation, and connection.
@@ -34,11 +26,7 @@ Monitor your activity, progress, and take time to celebrate your achievements.
 
 ## Frequently asked questions
 ### What is Fitaval?
-<<<<<<< HEAD
 Fitaval is a fitness community platform based in Malappuram, Kerala, India. It helps you discover nearby gyms, connect with a supportive community, and track your growth with ease.
-=======
-Fitaval is a fitness community platform based in Kochi and Malappuram, Kerala, India. It helps you discover nearby gyms, connect with a supportive community, and track your growth with ease.
->>>>>>> 0f2739a4d4e12a4e879b97b2d139edf027ca8ce2
 
 ### How do I find gyms near me?
 Use Discover Clubs in Fitaval to find gyms, studios and workout spots near you, quickly, easily and hassle-free.
@@ -56,11 +44,7 @@ With Grow Your Healthy Journey you can monitor your activity and progress, and t
 Fill in the Join Fitaval form on this page with your name, mobile number, email and role (gym member, trainer, gym owner or other).
 
 ### How can I contact Fitaval?
-<<<<<<< HEAD
 Email Contact@fitaval.com or call +91 755994660. Fitaval is located at PRIICE, PSMO Tirurangadi, Tirurangadi, Malappuram, Kerala 676306.
-=======
-Email Contact@fitaval.com or call +91 95391 75084 or +91 09991 77796. Fitaval is located in Malappuram, Kerala, India, and at Taliparamba Techies Park at Rajagiri College of Social Science (Autonomous), Rajagiri Rd, Kalamassery, Kochi, Kerala 683104.
->>>>>>> 0f2739a4d4e12a4e879b97b2d139edf027ca8ce2
 
 ## Who it is for
 - Gym members looking for gyms and a workout community
@@ -70,14 +54,8 @@ Email Contact@fitaval.com or call +91 95391 75084 or +91 09991 77796. Fitaval is
 
 ## Contact and official profiles
 - Email: Contact@fitaval.com
-<<<<<<< HEAD
 - Phone: +91 755994660
 - Address: PRIICE, PSMO Tirurangadi, Tirurangadi, Malappuram, Kerala 676306
-=======
-- Phone: +91 95391 75084, +91 09991 77796
-- Location: Malappuram, Kerala, India
-- Address (Kochi office): Taliparamba Techies Park at Rajagiri College of Social Science (Autonomous), Rajagiri Rd, Kalamassery, Kochi, Kerala 683104
->>>>>>> 0f2739a4d4e12a4e879b97b2d139edf027ca8ce2
 - Instagram: https://www.instagram.com/fitaval.app
 - Facebook: https://www.facebook.com/p/Fitaval-61593216647087/
 - LinkedIn: https://www.linkedin.com/company/fitaval/

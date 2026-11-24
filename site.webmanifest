@@ -1,11 +1,7 @@
 {
   "name": "Fitaval",
   "short_name": "Fitaval",
-<<<<<<< HEAD
   "description": "Fitaval helps you find fitness clubs and gyms near you, join events and challenges, meet like-minded people and track your progress. Based in Malappuram, Kerala, India.",
-=======
-  "description": "Fitaval helps you find fitness clubs and gyms near you, join events and challenges, meet like-minded people and track your progress. Based in Kochi and Malappuram, Kerala, India.",
->>>>>>> 0f2739a4d4e12a4e879b97b2d139edf027ca8ce2
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
